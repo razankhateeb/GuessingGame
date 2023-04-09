@@ -65,7 +65,6 @@ function StartGameScreen({ onPickedNumber }) {
             <View style={styles.ButtonContainer}>
               <PrimaryButton onPress={resetInputHandler}> Reset</PrimaryButton>
               <PrimaryButton onPress={confirmInputHandler}>
-                {" "}
                 Confirm
               </PrimaryButton>
             </View>

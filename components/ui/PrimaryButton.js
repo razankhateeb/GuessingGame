@@ -38,7 +38,7 @@ const styles = StyleSheet.create({
     width: "100%",
   },
   ButtonText: {
-    color: "#fff",
+    color: Colors.white100,
     textAlign: "center",
   },
   pressed: {
